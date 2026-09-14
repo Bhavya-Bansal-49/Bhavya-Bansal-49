@@ -24,7 +24,11 @@ I write specs for a living and code on weekends, which mostly means I have opini
 
 > My contribution grid, eaten by a snake. Refreshes every night.
 
-![GitHub contribution snake](https://raw.githubusercontent.com/Bhavya-Bansal-49/Bhavya-Bansal-49/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavya-Bansal-49/Bhavya-Bansal-49/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavya-Bansal-49/Bhavya-Bansal-49/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Bhavya-Bansal-49/Bhavya-Bansal-49/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
